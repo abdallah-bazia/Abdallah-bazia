@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Abdellah 👋
 
-<!--
-**abdallah-bazia/Abdallah-bazia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Informatics Graduate Building Skills Across the Tech Landscape**
 
-Here are some ideas to get you started:
+I'm an Informatics graduate passionate about developing strong foundations in programming, software development, and problem-solving. I enjoy learning new technologies, working on practical projects, and improving my understanding of how systems and algorithms work in real environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Currently Developing
+- Strengthening my core computer science knowledge  
+- Working on development projects to build a solid portfolio  
+- Exploring tools, frameworks, and technologies used in modern computing  
+
+### 🧰 Technologies & Tools I Use
+- **Languages:** C, Java, JavaScript, Python, SQL, PHP, basic Prolog  
+- **Web:** HTML, CSS, JavaScript  
+- **Backend:** Node.js (learning), MySQL, PHP  
+- **Other:** GitHub, Linux basics, Algorithms & Data Structures  
+- **Projects:** Parsers, simple games, rule-based systems, academic projects
+
+### 📌 Projects I’m Sharing Here
+I use GitHub to document my progress, upload university and personal projects, and show how my skills evolve over time. More repositories will be added as I continue learning and building.
+
+### 🎯 Goals
+- Write cleaner, well-structured, and maintainable code  
+- Build a strong portfolio through consistent practice  
+- Prepare academically and technically for advanced studies in computing  
+
+### 📫 Contact
+Feel free to reach out if you'd like to discuss projects, ideas, or collaboration.  
+**Email:** abdellahbazia888@gmail.com
+
+---
+
+Thanks for visiting my profile!
