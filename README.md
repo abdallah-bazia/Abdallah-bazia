@@ -26,7 +26,7 @@ I use GitHub to document my progress, upload university and personal projects, a
 
 ### 📫 Contact
 Feel free to reach out if you'd like to discuss projects, ideas, or collaboration.  
-**Email:** abdellahbazia888@gmail.com
+**Email:** abdallahbazia0@gmail.com
 
 ---
 
