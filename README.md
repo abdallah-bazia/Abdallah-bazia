@@ -38,13 +38,9 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 | 🧠 **Expert System** — Forward/backward chaining inference engine | Python · Tkinter | — |
 
 ---
-
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallah-bazia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-bazia&layout=compact&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdallah-bazia&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ### 📫 Contact
