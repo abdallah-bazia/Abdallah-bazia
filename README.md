@@ -19,7 +19,7 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 
 **Backend:** Node.js · Express · Flask · Socket.io · REST APIs · NextAuth.js · Prisma
 
-**Databases:** MySQL · SQLite · PostgreSQL
+**Databases:** MySQL · PostgreSQL
 
 **Tools & Deployment:** Git · GitHub · Vercel · Render · VS Code
 
@@ -29,7 +29,7 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 
 | Project | Stack | Links |
 |---|---|---|
-| ⚡ **Taskflow** — Full-stack project manager with auth, boards, columns & tasks | Next.js · TypeScript · Prisma · NextAuth.js · SQLite | [Repo](https://github.com/abdallah-bazia/taskflow) |
+| ⚡ **Taskflow** — Full-stack project manager with auth, boards, columns & tasks | Next.js · TypeScript · Prisma · NextAuth.js · PostgreSQL | [Live](https://taskflow-mauve-nine.vercel.app) · [Repo](https://github.com/abdallah-bazia/taskflow) |
 | 💬 **ChatFlow** — Real-time multi-room chat with live presence & typing indicators | Next.js · TypeScript · Socket.io · Node.js | [Live](https://chatflow-mgv6.vercel.app) · [Repo](https://github.com/abdallah-bazia/chatflow) |
 | ⛅ **Weather Dashboard** — Real-time weather & 5-day forecasts for any city | Next.js · TypeScript · OpenWeather API | [Live](https://weather-dashboard-murex-kappa.vercel.app) · [Repo](https://github.com/abdallah-bazia/weather-dashboard) |
 | 🌐 **NaaS PoC** — SDN-based Network as a Service platform with VNF deployment | Python · Flask · REST API | [Repo](https://github.com/abdallah-bazia/cs-projects) |
@@ -38,9 +38,11 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 | 🧠 **Expert System** — Forward/backward chaining inference engine | Python · Tkinter | — |
 
 ---
+
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdallah-bazia&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ### 📫 Contact
