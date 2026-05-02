@@ -17,7 +17,7 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 
 **Frontend:** Next.js · React · Tailwind CSS · HTML/CSS · Socket.io client
 
-**Backend:** Node.js · Express · Flask · Socket.io · REST APIs · NextAuth.js · Prisma,MySql
+**Backend:** Node.js · Express · Flask · Socket.io · REST APIs · NextAuth.js · Prisma
 
 **Databases:** MySQL · PostgreSQL
 
