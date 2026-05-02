@@ -39,11 +39,11 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallah-bazia&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e8ff47&icon_color=e8ff47&text_color=f0f0f0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdallah-bazia&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-bazia&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e8ff47&text_color=f0f0f0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-bazia&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
