@@ -7,7 +7,6 @@ I'm a CS graduate passionate about building real-world software — from real-ti
 
 ### 🚀 What I'm Currently Working On
 - Building and deploying full-stack web applications with Next.js, TypeScript & Prisma
-- Pursuing a Master's in Network & Security (M1)
 - Exploring WebSockets, authentication systems, and modern deployment workflows
 
 ---
